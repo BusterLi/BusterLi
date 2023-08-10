@@ -1,5 +1,5 @@
 ### Hi there, I'm BusterLi 👋
-\||||||||||||||||||||||||||/                                                              
+                                                            
  \|||||||||||||||||||||||/                                                                                  
   -----------------------              | FUN FACTS ABOUT ME |                                
                                                                                                                
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I have 2 dogs named Paris and Pixel.
   - Paris is 12 years old and Pixel is only 1 year old!
   
-|    |   |-----   |        |        |------|
+
 |    |   |        |        |        |      |
 |____|   |_____   |        |        |      |
 |    |   |        |        |        |      |
